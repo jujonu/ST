@@ -309,4 +309,8 @@ gap: 30px;
         padding-right: 0px;
     }
 
+    .footer{
+    flex-direction: column;
+    }
+    
 }
